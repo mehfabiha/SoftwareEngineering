@@ -1,3 +1,5 @@
+![hstu](https://github.com/mehfabiha/SoftwareEngineering/assets/157905571/21433776-1f24-46b3-80f9-7547e976dd3a)  
+
 ### Course Title : SoftWare Engineering  
 ### Course Code : CSE 305  
 ### Project Proposal : 0 to Job(Future job vision for school going kids)  
@@ -17,14 +19,16 @@ Hajee Mohammad Danesh Science and Technology University, Dinajpur-5200.
 # Introduction :  
 
 In a rapidly evolving world, providing school-going kids with insights into their future career paths is crucial. The "0 to Job" project aims to bridge the gap between classroom learning and real-world job opportunities. Imagine a platform where students can explore and understand how their current subjects align with various future job possibilities. This initiative not only empowers young minds to make informed decisions but also nurtures a vision for their career journeys. Let's embark on this innovative venture, creating a roadmap that connects education to aspirations and sets the stage for a promising future.  
-
-</br>
+  
+</br>  
 
 # Implementation Approach :  
 
 Adopting a structured and adaptable methodology is pivotal for the success of the "0 to Job" project. My chosen approach is the Iterative Waterfall Model, a method that seamlessly combines the systematic nature of the traditional waterfall model with the flexibility needed for ongoing improvements. This approach ensures a step-by-step progression through feasibility studies, requirements gathering, design, implementation, and testing, while allowing for iterations based on user feedback and evolving educational landscapes.  
   
   </br>
+
+  ![iterativewaterfall](https://github.com/mehfabiha/SoftwareEngineering/assets/157905571/005042f1-a81a-4405-bdde-56a8a2627617)
 
   # 1. Feasibility Study:  
 
